@@ -23,11 +23,11 @@ The recommended version of Java for use with Jenkins is Java 21\.  The Java Deve
 1. Open a terminal on the Ubuntu system.
 1. Run the following commands to update the package management system and Install openjdk-21-jdk:
 
-   \`\`\`bash
+   ```bash
    sudo apt-get update
    sudo apt-get upgrade \-y
    sudo apt-get install \-y openjdk-21-jdk
-   \`\`\`
+   ```
 
 1. Confirm that the installation completes successfully.
 
@@ -40,7 +40,7 @@ Continue in the terminal with the following steps.
 1. Run the following commands to:
    1. download the official signing key for Jenkins packages
    2. update the package manager to include the official sources for Jenkins installation files
-   3. And update the package manager to refer to the new key and installation sources
+   3. update the package manager to refer to the new key and installation sources
 
     ```bash
    sudo wget \-O /usr/share/keyrings/jenkins-keyring.asc \\

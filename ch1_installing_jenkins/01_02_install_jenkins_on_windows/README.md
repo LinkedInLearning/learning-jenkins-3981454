@@ -1,5 +1,7 @@
 # 01_02 Install Jenkins on Windows
 
+TODO: Replace embedded images with links to files in the repo
+
 Use these instructions to install Jenkins on a system running a Windows operating system.
 
 ## **Prerequisites**
