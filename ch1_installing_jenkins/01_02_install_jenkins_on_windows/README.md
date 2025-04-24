@@ -202,5 +202,5 @@ Alternative Text: Inside Notepad, copy the initial admin password.
 
 <!-- FooterStart -->
 ---
-[← README](../01_01_system_requirements/README.md) | [01_03 Install Jenkins on macOS →](../01_03_install_jenkins_on_macos/README.md)
+[← 01_01 System requirements](../01_01_system_requirements/README.md) | [01_03 Install Jenkins on macOS →](../01_03_install_jenkins_on_macos/README.md)
 <!-- FooterEnd -->

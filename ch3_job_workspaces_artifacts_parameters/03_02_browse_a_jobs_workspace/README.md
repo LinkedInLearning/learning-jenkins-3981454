@@ -1,6 +1,6 @@
-
+# 03_02 Browse a job's workspace
 
 <!-- FooterStart -->
 ---
-[← README](../03_01_using_a_global_build_tool/README.md) | [README →](../03_03_manage_artifacts/README.md)
+[← 03_01 Using a global build tool](../03_01_using_a_global_build_tool/README.md) | [03_03 Manage artifacts →](../03_03_manage_artifacts/README.md)
 <!-- FooterEnd -->

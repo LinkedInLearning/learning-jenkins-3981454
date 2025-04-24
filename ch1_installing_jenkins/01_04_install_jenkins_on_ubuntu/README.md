@@ -68,5 +68,5 @@ Continue in the terminal with the following steps.
 
 <!-- FooterStart -->
 ---
-[← 01_03 Install Jenkins on macOS](../01_03_install_jenkins_on_macos/README.md) | [README →](../01_05_install_jenkins_using_docker/README.md)
+[← 01_03 Install Jenkins on macOS](../01_03_install_jenkins_on_macos/README.md) | [01_05 Install Jenkins using Docker →](../01_05_install_jenkins_using_docker/README.md)
 <!-- FooterEnd -->

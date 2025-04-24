@@ -2,5 +2,5 @@
 
 <!-- FooterStart -->
 ---
-[← README](../../ch4_organize_jobs_with_views_folders/04_07_solution_create_folders_views/README.md) | [README →](../05_02_pipeline_as_code/README.md)
+[← 04_07 Solution Create Folders and Views](../../ch4_organize_jobs_with_views_folders/04_07_solution_create_folders_views/README.md) | [05_02 Pipeline as code →](../05_02_pipeline_as_code/README.md)
 <!-- FooterEnd -->
