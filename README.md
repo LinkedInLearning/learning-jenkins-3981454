@@ -50,5 +50,5 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 <!-- FooterStart -->
 ---
-[00_01 Getting started with jenkins →](ch0_introduction/0_01_getting_started_with_jenkins/README.md)
+[00_01 Getting started with jenkins →](ch0_introduction/00_01_getting_started_with_jenkins/README.md)
 <!-- FooterEnd -->
